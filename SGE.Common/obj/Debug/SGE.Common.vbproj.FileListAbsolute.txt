@@ -1,0 +1,10 @@
+C:\repos\BUPA\SGE_Solution\SGE.Common\bin\Debug\SGE.Common.dll
+C:\repos\BUPA\SGE_Solution\SGE.Common\bin\Debug\SGE.Common.pdb
+C:\repos\BUPA\SGE_Solution\SGE.Common\bin\Debug\SGE.Common.xml
+C:\repos\BUPA\SGE_Solution\SGE.Common\obj\Debug\SGE.Common.vbproj.AssemblyReference.cache
+C:\repos\BUPA\SGE_Solution\SGE.Common\obj\Debug\SGE.Common.Resources.resources
+C:\repos\BUPA\SGE_Solution\SGE.Common\obj\Debug\SGE.Common.vbproj.GenerateResource.cache
+C:\repos\BUPA\SGE_Solution\SGE.Common\obj\Debug\SGE.Common.vbproj.CoreCompileInputs.cache
+C:\repos\BUPA\SGE_Solution\SGE.Common\obj\Debug\SGE.Common.dll
+C:\repos\BUPA\SGE_Solution\SGE.Common\obj\Debug\SGE.Common.xml
+C:\repos\BUPA\SGE_Solution\SGE.Common\obj\Debug\SGE.Common.pdb

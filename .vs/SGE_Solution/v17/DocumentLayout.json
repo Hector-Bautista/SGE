@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\repos\\BUPA\\SGE_Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73190136-E2FD-4B64-AA20-2883A3CBA229}|SGE.WinForms\\SGE.WinForms.vbproj|c:\\repos\\bupa\\sge_solution\\sge.winforms\\forms\\frmprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{73190136-E2FD-4B64-AA20-2883A3CBA229}|SGE.WinForms\\SGE.WinForms.vbproj|solutionrelative:sge.winforms\\forms\\frmprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F55E7888-7DEC-4305-AD21-1B3E28737C22}|SGE.Models\\SGE.Models.vbproj|c:\\repos\\bupa\\sge_solution\\sge.models\\empleado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F55E7888-7DEC-4305-AD21-1B3E28737C22}|SGE.Models\\SGE.Models.vbproj|solutionrelative:sge.models\\empleado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73190136-E2FD-4B64-AA20-2883A3CBA229}|SGE.WinForms\\SGE.WinForms.vbproj|c:\\repos\\bupa\\sge_solution\\sge.winforms\\forms\\frmprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{73190136-E2FD-4B64-AA20-2883A3CBA229}|SGE.WinForms\\SGE.WinForms.vbproj|solutionrelative:sge.winforms\\forms\\frmprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73190136-E2FD-4B64-AA20-2883A3CBA229}|SGE.WinForms\\SGE.WinForms.vbproj|c:\\repos\\bupa\\sge_solution\\sge.winforms\\forms\\frmempleado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{73190136-E2FD-4B64-AA20-2883A3CBA229}|SGE.WinForms\\SGE.WinForms.vbproj|solutionrelative:sge.winforms\\forms\\frmempleado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2060A494-ED63-457B-950E-F8A1A7E4DCAD}|SGE.Business\\SGE.Business.vbproj|c:\\repos\\bupa\\sge_solution\\sge.business\\empleadobll.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2060A494-ED63-457B-950E-F8A1A7E4DCAD}|SGE.Business\\SGE.Business.vbproj|solutionrelative:sge.business\\empleadobll.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87348583-D2C6-4781-A48A-29AEBED6BC9C}|SGE.DataAccess\\SGE.DataAccess.vbproj|c:\\repos\\bupa\\sge_solution\\sge.dataaccess\\empleadodal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{87348583-D2C6-4781-A48A-29AEBED6BC9C}|SGE.DataAccess\\SGE.DataAccess.vbproj|solutionrelative:sge.dataaccess\\empleadodal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF2E44B-E73A-4009-A648-E8F77AAA34F3}|SGE.Common\\SGE.Common.vbproj|c:\\repos\\bupa\\sge_solution\\sge.common\\utilidades.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4EF2E44B-E73A-4009-A648-E8F77AAA34F3}|SGE.Common\\SGE.Common.vbproj|solutionrelative:sge.common\\utilidades.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 332,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Utilidades.vb",
+              "DocumentMoniker": "C:\\repos\\BUPA\\SGE_Solution\\SGE.Common\\Utilidades.vb",
+              "RelativeDocumentMoniker": "SGE.Common\\Utilidades.vb",
+              "ToolTip": "C:\\repos\\BUPA\\SGE_Solution\\SGE.Common\\Utilidades.vb",
+              "RelativeToolTip": "SGE.Common\\Utilidades.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-19T00:37:24.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{0849e941-4665-42e5-8dd0-e4c8da15dbd0}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0849e941-4665-42e5-8dd0-e4c8da15dbd0}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{0849e941-4665-42e5-8dd0-e4c8da15dbd0}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmPrincipal.vb",
+              "DocumentMoniker": "C:\\repos\\BUPA\\SGE_Solution\\SGE.WinForms\\Forms\\FrmPrincipal.vb",
+              "RelativeDocumentMoniker": "SGE.WinForms\\Forms\\FrmPrincipal.vb",
+              "ToolTip": "C:\\repos\\BUPA\\SGE_Solution\\SGE.WinForms\\Forms\\FrmPrincipal.vb",
+              "RelativeToolTip": "SGE.WinForms\\Forms\\FrmPrincipal.vb",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAUwEgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-18T23:10:18.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmPrincipal.vb [Design]",
+              "DocumentMoniker": "C:\\repos\\BUPA\\SGE_Solution\\SGE.WinForms\\Forms\\FrmPrincipal.vb",
+              "RelativeDocumentMoniker": "SGE.WinForms\\Forms\\FrmPrincipal.vb",
+              "ToolTip": "C:\\repos\\BUPA\\SGE_Solution\\SGE.WinForms\\Forms\\FrmPrincipal.vb [Design]",
+              "RelativeToolTip": "SGE.WinForms\\Forms\\FrmPrincipal.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-18T23:10:14.25Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmEmpleado.vb [Design]",
+              "DocumentMoniker": "C:\\repos\\BUPA\\SGE_Solution\\SGE.WinForms\\Forms\\frmEmpleado.vb",
+              "RelativeDocumentMoniker": "SGE.WinForms\\Forms\\frmEmpleado.vb",
+              "ToolTip": "C:\\repos\\BUPA\\SGE_Solution\\SGE.WinForms\\Forms\\frmEmpleado.vb [Design]",
+              "RelativeToolTip": "SGE.WinForms\\Forms\\frmEmpleado.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-18T23:10:08.407Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmpleadoBLL.vb",
+              "DocumentMoniker": "C:\\repos\\BUPA\\SGE_Solution\\SGE.Business\\EmpleadoBLL.vb",
+              "RelativeDocumentMoniker": "SGE.Business\\EmpleadoBLL.vb",
+              "ToolTip": "C:\\repos\\BUPA\\SGE_Solution\\SGE.Business\\EmpleadoBLL.vb",
+              "RelativeToolTip": "SGE.Business\\EmpleadoBLL.vb",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAjwHAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-18T23:09:42.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmpleadoDAL.vb",
+              "DocumentMoniker": "C:\\repos\\BUPA\\SGE_Solution\\SGE.DataAccess\\EmpleadoDAL.vb",
+              "RelativeDocumentMoniker": "SGE.DataAccess\\EmpleadoDAL.vb",
+              "ToolTip": "C:\\repos\\BUPA\\SGE_Solution\\SGE.DataAccess\\EmpleadoDAL.vb",
+              "RelativeToolTip": "SGE.DataAccess\\EmpleadoDAL.vb",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAuwFcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-18T22:41:44.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Empleado.vb",
+              "DocumentMoniker": "C:\\repos\\BUPA\\SGE_Solution\\SGE.Models\\Empleado.vb",
+              "RelativeDocumentMoniker": "SGE.Models\\Empleado.vb",
+              "ToolTip": "C:\\repos\\BUPA\\SGE_Solution\\SGE.Models\\Empleado.vb",
+              "RelativeToolTip": "SGE.Models\\Empleado.vb",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-18T22:40:22.476Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 321,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

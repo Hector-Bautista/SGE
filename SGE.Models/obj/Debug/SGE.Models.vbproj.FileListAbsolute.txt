@@ -1,0 +1,10 @@
+C:\repos\BUPA\SGE_Solution\SGE.Models\bin\Debug\SGE.Models.dll
+C:\repos\BUPA\SGE_Solution\SGE.Models\bin\Debug\SGE.Models.pdb
+C:\repos\BUPA\SGE_Solution\SGE.Models\bin\Debug\SGE.Models.xml
+C:\repos\BUPA\SGE_Solution\SGE.Models\obj\Debug\SGE.Models.vbproj.AssemblyReference.cache
+C:\repos\BUPA\SGE_Solution\SGE.Models\obj\Debug\SGE.Models.Resources.resources
+C:\repos\BUPA\SGE_Solution\SGE.Models\obj\Debug\SGE.Models.vbproj.GenerateResource.cache
+C:\repos\BUPA\SGE_Solution\SGE.Models\obj\Debug\SGE.Models.vbproj.CoreCompileInputs.cache
+C:\repos\BUPA\SGE_Solution\SGE.Models\obj\Debug\SGE.Models.dll
+C:\repos\BUPA\SGE_Solution\SGE.Models\obj\Debug\SGE.Models.xml
+C:\repos\BUPA\SGE_Solution\SGE.Models\obj\Debug\SGE.Models.pdb
